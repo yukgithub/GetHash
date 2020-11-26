@@ -1,6 +1,8 @@
 # GetHash
 Windows Form application to get and compare hash which is MD5, SHA1, SHA256, SHA384 and SHA512.
 
+<img src="picture/screenshot.png" alt="screenshot" width="50%">
+
 ## Environment
 - .NET Core 3.1
 - Windows 8.1 or later.
