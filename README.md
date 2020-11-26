@@ -5,6 +5,9 @@ Windows Form application to get and compare hash which is MD5, SHA1, SHA256, SHA
 - .NET Core 3.1
 - Windows 8.1 or later.
 
+## Download
+[Download](https://github.com/yukgithub/GetHash/wiki/Download-Page) page is here.
+
 ## Features
 - This tool can create hash which kind is MD5, SHA1, SHA256, SHA384 and SHA512.
 - Enable Input sources are plain text and files.
@@ -21,6 +24,9 @@ Windows Form application to get and compare hash which is MD5, SHA1, SHA256, SHA
 ## 実行可能環境
 - .NET Core 3.1
 - Windows 8.1、もしくはそれ以降。
+
+## ダウンロード
+[ダウンロード](https://github.com/yukgithub/GetHash/wiki/Download-Page) はこちらから。
 
 ## 主な機能
 - MD5, SHA1, SHA256, SHA384, SHA512のハッシュ値を出力。
