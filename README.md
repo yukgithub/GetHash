@@ -7,6 +7,9 @@ Windows Form application to get and compare hash which is MD5, SHA1, SHA256, SHA
 - .NET Core 3.1
 - Windows 8.1 or later.
 
+## License
+MIT
+
 ## Download
 [Download](https://github.com/yukgithub/GetHash/wiki/Download-Page) page is here.
 
@@ -26,6 +29,9 @@ Windows Form application to get and compare hash which is MD5, SHA1, SHA256, SHA
 ## 実行可能環境
 - .NET Core 3.1
 - Windows 8.1、もしくはそれ以降。
+
+## ライセンス
+MIT
 
 ## ダウンロード
 [ダウンロード](https://github.com/yukgithub/GetHash/wiki/Download-Page) はこちらから。
