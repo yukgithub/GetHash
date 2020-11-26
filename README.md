@@ -9,6 +9,7 @@ Windows Form application to get and compare hash which is MD5, SHA1, SHA256, SHA
 
 ## License
 MIT
+Copyright (C) Yuki
 
 ## Download
 [Download](https://github.com/yukgithub/GetHash/wiki/Download-Page) page is here.
@@ -32,6 +33,7 @@ MIT
 
 ## ライセンス
 MIT
+Copyright (C) Yuki
 
 ## ダウンロード
 [ダウンロード](https://github.com/yukgithub/GetHash/wiki/Download-Page) はこちらから。
