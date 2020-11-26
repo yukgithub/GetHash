@@ -8,7 +8,7 @@ Windows Form application to get and compare hash which is MD5, SHA1, SHA256, SHA
 - Windows 8.1 or later.
 
 ## License
-MIT
+MIT  
 Copyright (C) Yuki
 
 ## Download
@@ -32,7 +32,7 @@ Copyright (C) Yuki
 - Windows 8.1、もしくはそれ以降。
 
 ## ライセンス
-MIT
+MIT  
 Copyright (C) Yuki
 
 ## ダウンロード
